@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/netlab/Desktop/Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/take_pic.png",
+        "source": "/Users/netlab/Desktop/Android/app/src/main/res/drawable-hdpi/take_pic.png"
+    },
+    {
+        "merged": "/Users/netlab/Desktop/Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/netlab/Desktop/Android/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/netlab/Desktop/Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/control.png",
+        "source": "/Users/netlab/Desktop/Android/app/src/main/res/drawable-hdpi/control.png"
+    },
+    {
+        "merged": "/Users/netlab/Desktop/Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bakcground.jpg",
+        "source": "/Users/netlab/Desktop/Android/app/src/main/res/drawable-hdpi/bakcground.jpg"
+    },
+    {
+        "merged": "/Users/netlab/Desktop/Android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/select.png",
+        "source": "/Users/netlab/Desktop/Android/app/src/main/res/drawable-hdpi/select.png"
+    }
+]

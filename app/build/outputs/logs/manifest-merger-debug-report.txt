@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:2:1-40:12
+	xmlns:android
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:3:2-48
+		INJECTED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:4:2-27
+		INJECTED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:3:49-72
+		INJECTED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:6:2-11:33
+	android:resizeable
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:10:5-30
+	android:largeScreens
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:7:5-32
+	android:anyDensity
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:11:5-30
+	android:normalScreens
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:8:5-33
+	android:smallScreens
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:9:5-32
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:12:2-63
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:12:19-60
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:13:2-78
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:13:19-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:14:2-76
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:14:19-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:15:2-86
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:15:19-83
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:16:2-72
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:16:19-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:17:2-64
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:17:19-61
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:18:2-67
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:18:19-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:19:2-68
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:19:19-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:20:2-77
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:20:19-74
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:21:2-69
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:21:19-66
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:22:2-70
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:22:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:23:2-78
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:23:19-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:24:2-76
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:24:19-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:25:2-68
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:25:19-65
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:26:2-72
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:26:19-69
+uses-feature#android.hardware.camera
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:27:2-81
+	android:required
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:27:55-78
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:27:16-54
+application
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:29:2-39:16
+	android:label
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:29:45-77
+	android:icon
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:29:15-44
+activity#com.smartmobilesofware.ocrapiservice.SampleActivity
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:31:3-37:14
+	android:label
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:32:4-36
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:31:13-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:33:4-36:20
+action#android.intent.action.MAIN
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:34:5-57
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:34:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from /Users/netlab/Desktop/Android/app/src/main/AndroidManifest.xml:35:15-62

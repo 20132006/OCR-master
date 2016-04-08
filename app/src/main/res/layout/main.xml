@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bakcground"
+    >
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center">
+        <Button
+            android:layout_height="100dp"
+            android:id="@+id/picImagebutton"
+            android:layout_width="100dp"
+            android:background="@drawable/select"
+            android:layout_alignLeft="@+id/take_pic"
+            android:layout_below="@+id/take_pic"
+            android:layout_x="133dp"
+            android:layout_y="152dp">
+
+        </Button>
+
+        <EditText
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:id="@+id/lanuageCode"
+            android:layout_marginTop="30dp"
+            android:hint="@string/LangDefault"
+            android:layout_below="@+id/picImagebutton"
+            android:layout_alignParentLeft="true"
+            android:layout_x="6dp"
+            android:layout_y="284dp"
+            android:layout_gravity="center_vertical">
+        </EditText>
+
+        <EditText
+            android:id="@+id/apiKey"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/lanuageCode"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="25dp"
+            android:hint="@string/keyDefault"
+            android:text="QdgJmSnWjK"
+            android:visibility="invisible"
+            android:textColorHighlight="#29fff3cd"
+            android:layout_x="8dp"
+            android:layout_y="341dp">
+
+            <requestFocus></requestFocus>
+        </EditText>
+        <Button
+            android:layout_height="80dp"
+            android:id="@+id/convert"
+            android:layout_width="100dp"
+            android:background="@drawable/control"
+            android:layout_alignTop="@+id/apiKey"
+            android:layout_centerHorizontal="true"
+            android:layout_x="138dp"
+            android:layout_y="402dp">
+
+        </Button>
+
+        <Button
+            android:layout_height="100dp"
+            android:id="@+id/take_pic"
+            android:layout_width="100dp"
+            android:background="@drawable/take_pic"
+            android:layout_alignRight="@+id/convert"
+            android:layout_x="132dp"
+            android:layout_y="48dp" />
+    </RelativeLayout>
+</LinearLayout>
